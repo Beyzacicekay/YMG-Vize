@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class YmgVizeApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(YmgVizeApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(YmgVizeApplication.class, args);
+    }
 
 }
